@@ -1,0 +1,75 @@
+project:
+  name: studio_shift
+  root_seed: 20260908
+  claim: >-
+    A standard ImageNet-pretrained classifier supervised only with clean
+    Adaptiope Product images will have lower class-balanced top-1 accuracy on
+    held-out Adaptiope Real Life customer review photographs of the same
+    categories than on held-out Product photographs.
+
+dataset:
+  name: Adaptiope
+  source_page: https://gitlab.com/tringwald/adaptiope
+  paper: https://openaccess.thecvf.com/content/WACV2021/html/Ringwald_Adaptiope_A_Modern_Benchmark_for_Unsupervised_Domain_Adaptation_WACV_2021_paper.html
+  license_status: not_specified_by_publisher
+  archive:
+    filename: Adaptiope.zip
+    google_drive_file_id: 1FmdsvetC0oVyrFJ9ER7fcN-cXPOWx2gq
+    url: https://drive.usercontent.google.com/download?id=1FmdsvetC0oVyrFJ9ER7fcN-cXPOWx2gq&export=download&confirm=t
+    size_bytes: 6650336447
+    sha256: 93378c8d5f89ebd7f2015d38ba8d3e48c00bae959ebeeaf822e79e6fcfc7fd67
+  extracted_root: data/processed/Adaptiope
+  domains:
+    product_images:
+      archive_prefix: Adaptiope/product_images
+      expected_images_per_category: 100
+    real_life:
+      archive_prefix: Adaptiope/real_life
+      expected_images_per_category: 100
+
+categories:
+  - calculator
+  - computer
+  - computer mouse
+  - cordless fixed phone
+  - game controller
+  - hard-wired fixed phone
+  - in-ear headphones
+  - keyboard
+  - laptop
+  - mixing console
+  - monitor
+  - network switch
+  - over-ear headphones
+  - power strip
+  - printer
+  - projector
+  - speakers
+  - usb stick
+  - vr goggles
+  - webcam
+
+recovery:
+  labels_per_class: [0, 1, 2, 4, 8, 16, 32, 50]
+  nested_sampling_runs: 3
+
+model:
+  backbone: google/mobilenet_v2_1.0_224
+  revision: 75e607b00aeae1297cc89d026a118bce012f5c5a
+  supervised_trainable_part: classifier_head
+  pretraining: ImageNet-1k
+
+splits:
+  product_images:
+    product_train: 70
+    product_val: 10
+    product_test: 20
+  real_life:
+    adaptation_pool: 50
+    shifted_test: 50
+  duplicate_policy: atomic_exact_sha256
+
+artifacts:
+  inventory_json: artifacts/inventory.json
+  inventory_table: artifacts/tables/file_inventory.csv
+  manifests_dir: artifacts/manifests

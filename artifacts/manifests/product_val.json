@@ -1,0 +1,802 @@
+[
+  {
+    "path": "data/processed/Adaptiope/product_images/calculator/calculator_023.jpg",
+    "category": "calculator"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/calculator/calculator_007.jpg",
+    "category": "calculator"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/calculator/calculator_005.jpg",
+    "category": "calculator"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/calculator/calculator_089.jpg",
+    "category": "calculator"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/calculator/calculator_088.jpg",
+    "category": "calculator"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/calculator/calculator_047.jpg",
+    "category": "calculator"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/calculator/calculator_079.jpg",
+    "category": "calculator"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/calculator/calculator_028.jpg",
+    "category": "calculator"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/calculator/calculator_010.jpg",
+    "category": "calculator"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/calculator/calculator_082.jpg",
+    "category": "calculator"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/computer/computer_042.jpg",
+    "category": "computer"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/computer/computer_037.jpg",
+    "category": "computer"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/computer/computer_084.jpg",
+    "category": "computer"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/computer/computer_013.jpg",
+    "category": "computer"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/computer/computer_048.jpg",
+    "category": "computer"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/computer/computer_051.jpg",
+    "category": "computer"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/computer/computer_016.jpg",
+    "category": "computer"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/computer/computer_099.jpg",
+    "category": "computer"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/computer/computer_093.jpg",
+    "category": "computer"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/computer/computer_011.jpg",
+    "category": "computer"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/computer mouse/computer mouse_055.jpg",
+    "category": "computer mouse"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/computer mouse/computer mouse_087.jpg",
+    "category": "computer mouse"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/computer mouse/computer mouse_096.jpg",
+    "category": "computer mouse"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/computer mouse/computer mouse_027.jpg",
+    "category": "computer mouse"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/computer mouse/computer mouse_016.jpg",
+    "category": "computer mouse"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/computer mouse/computer mouse_086.jpg",
+    "category": "computer mouse"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/computer mouse/computer mouse_031.jpg",
+    "category": "computer mouse"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/computer mouse/computer mouse_004.jpg",
+    "category": "computer mouse"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/computer mouse/computer mouse_089.jpg",
+    "category": "computer mouse"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/computer mouse/computer mouse_079.jpg",
+    "category": "computer mouse"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/cordless fixed phone/cordless fixed phone_072.jpg",
+    "category": "cordless fixed phone"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/cordless fixed phone/cordless fixed phone_021.jpg",
+    "category": "cordless fixed phone"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/cordless fixed phone/cordless fixed phone_019.jpg",
+    "category": "cordless fixed phone"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/cordless fixed phone/cordless fixed phone_091.jpg",
+    "category": "cordless fixed phone"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/cordless fixed phone/cordless fixed phone_078.jpg",
+    "category": "cordless fixed phone"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/cordless fixed phone/cordless fixed phone_009.jpg",
+    "category": "cordless fixed phone"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/cordless fixed phone/cordless fixed phone_060.jpg",
+    "category": "cordless fixed phone"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/cordless fixed phone/cordless fixed phone_032.jpg",
+    "category": "cordless fixed phone"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/cordless fixed phone/cordless fixed phone_066.jpg",
+    "category": "cordless fixed phone"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/cordless fixed phone/cordless fixed phone_029.jpg",
+    "category": "cordless fixed phone"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/game controller/game controller_057.jpg",
+    "category": "game controller"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/game controller/game controller_058.jpg",
+    "category": "game controller"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/game controller/game controller_049.jpg",
+    "category": "game controller"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/game controller/game controller_010.jpg",
+    "category": "game controller"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/game controller/game controller_066.jpg",
+    "category": "game controller"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/game controller/game controller_069.jpg",
+    "category": "game controller"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/game controller/game controller_085.jpg",
+    "category": "game controller"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/game controller/game controller_031.jpg",
+    "category": "game controller"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/game controller/game controller_064.jpg",
+    "category": "game controller"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/game controller/game controller_037.jpg",
+    "category": "game controller"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/hard-wired fixed phone/hard-wired fixed phone_004.jpg",
+    "category": "hard-wired fixed phone"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/hard-wired fixed phone/hard-wired fixed phone_048.jpg",
+    "category": "hard-wired fixed phone"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/hard-wired fixed phone/hard-wired fixed phone_022.jpg",
+    "category": "hard-wired fixed phone"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/hard-wired fixed phone/hard-wired fixed phone_093.jpg",
+    "category": "hard-wired fixed phone"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/hard-wired fixed phone/hard-wired fixed phone_007.jpg",
+    "category": "hard-wired fixed phone"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/hard-wired fixed phone/hard-wired fixed phone_080.jpg",
+    "category": "hard-wired fixed phone"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/hard-wired fixed phone/hard-wired fixed phone_066.jpg",
+    "category": "hard-wired fixed phone"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/hard-wired fixed phone/hard-wired fixed phone_056.jpg",
+    "category": "hard-wired fixed phone"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/hard-wired fixed phone/hard-wired fixed phone_091.jpg",
+    "category": "hard-wired fixed phone"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/hard-wired fixed phone/hard-wired fixed phone_050.jpg",
+    "category": "hard-wired fixed phone"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/in-ear headphones/in-ear headphones_040.jpg",
+    "category": "in-ear headphones"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/in-ear headphones/in-ear headphones_064.jpg",
+    "category": "in-ear headphones"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/in-ear headphones/in-ear headphones_095.jpg",
+    "category": "in-ear headphones"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/in-ear headphones/in-ear headphones_044.jpg",
+    "category": "in-ear headphones"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/in-ear headphones/in-ear headphones_011.jpg",
+    "category": "in-ear headphones"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/in-ear headphones/in-ear headphones_089.jpg",
+    "category": "in-ear headphones"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/in-ear headphones/in-ear headphones_079.jpg",
+    "category": "in-ear headphones"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/in-ear headphones/in-ear headphones_086.jpg",
+    "category": "in-ear headphones"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/in-ear headphones/in-ear headphones_081.jpg",
+    "category": "in-ear headphones"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/in-ear headphones/in-ear headphones_091.jpg",
+    "category": "in-ear headphones"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/keyboard/keyboard_000.jpg",
+    "category": "keyboard"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/keyboard/keyboard_068.jpg",
+    "category": "keyboard"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/keyboard/keyboard_044.jpg",
+    "category": "keyboard"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/keyboard/keyboard_072.jpg",
+    "category": "keyboard"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/keyboard/keyboard_086.jpg",
+    "category": "keyboard"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/keyboard/keyboard_047.jpg",
+    "category": "keyboard"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/keyboard/keyboard_082.jpg",
+    "category": "keyboard"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/keyboard/keyboard_023.jpg",
+    "category": "keyboard"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/keyboard/keyboard_018.jpg",
+    "category": "keyboard"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/keyboard/keyboard_053.jpg",
+    "category": "keyboard"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/laptop/laptop_008.jpg",
+    "category": "laptop"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/laptop/laptop_087.jpg",
+    "category": "laptop"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/laptop/laptop_040.jpg",
+    "category": "laptop"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/laptop/laptop_044.jpg",
+    "category": "laptop"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/laptop/laptop_019.jpg",
+    "category": "laptop"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/laptop/laptop_033.jpg",
+    "category": "laptop"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/laptop/laptop_055.jpg",
+    "category": "laptop"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/laptop/laptop_024.jpg",
+    "category": "laptop"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/laptop/laptop_038.jpg",
+    "category": "laptop"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/laptop/laptop_073.jpg",
+    "category": "laptop"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/mixing console/mixing console_059.jpg",
+    "category": "mixing console"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/mixing console/mixing console_034.jpg",
+    "category": "mixing console"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/mixing console/mixing console_010.jpg",
+    "category": "mixing console"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/mixing console/mixing console_043.jpg",
+    "category": "mixing console"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/mixing console/mixing console_057.jpg",
+    "category": "mixing console"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/mixing console/mixing console_084.jpg",
+    "category": "mixing console"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/mixing console/mixing console_089.jpg",
+    "category": "mixing console"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/mixing console/mixing console_086.jpg",
+    "category": "mixing console"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/mixing console/mixing console_040.jpg",
+    "category": "mixing console"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/mixing console/mixing console_022.jpg",
+    "category": "mixing console"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/monitor/monitor_005.jpg",
+    "category": "monitor"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/monitor/monitor_054.jpg",
+    "category": "monitor"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/monitor/monitor_081.jpg",
+    "category": "monitor"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/monitor/monitor_013.jpg",
+    "category": "monitor"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/monitor/monitor_055.jpg",
+    "category": "monitor"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/monitor/monitor_000.jpg",
+    "category": "monitor"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/monitor/monitor_096.jpg",
+    "category": "monitor"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/monitor/monitor_017.jpg",
+    "category": "monitor"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/monitor/monitor_042.jpg",
+    "category": "monitor"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/monitor/monitor_070.jpg",
+    "category": "monitor"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/network switch/network switch_069.jpg",
+    "category": "network switch"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/network switch/network switch_038.jpg",
+    "category": "network switch"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/network switch/network switch_009.jpg",
+    "category": "network switch"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/network switch/network switch_060.jpg",
+    "category": "network switch"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/network switch/network switch_048.jpg",
+    "category": "network switch"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/network switch/network switch_015.jpg",
+    "category": "network switch"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/network switch/network switch_086.jpg",
+    "category": "network switch"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/network switch/network switch_094.jpg",
+    "category": "network switch"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/network switch/network switch_008.jpg",
+    "category": "network switch"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/network switch/network switch_030.jpg",
+    "category": "network switch"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/over-ear headphones/over-ear headphones_049.jpg",
+    "category": "over-ear headphones"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/over-ear headphones/over-ear headphones_051.jpg",
+    "category": "over-ear headphones"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/over-ear headphones/over-ear headphones_037.jpg",
+    "category": "over-ear headphones"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/over-ear headphones/over-ear headphones_015.jpg",
+    "category": "over-ear headphones"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/over-ear headphones/over-ear headphones_093.jpg",
+    "category": "over-ear headphones"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/over-ear headphones/over-ear headphones_045.jpg",
+    "category": "over-ear headphones"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/over-ear headphones/over-ear headphones_025.jpg",
+    "category": "over-ear headphones"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/over-ear headphones/over-ear headphones_086.jpg",
+    "category": "over-ear headphones"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/over-ear headphones/over-ear headphones_008.jpg",
+    "category": "over-ear headphones"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/over-ear headphones/over-ear headphones_039.jpg",
+    "category": "over-ear headphones"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/power strip/power strip_036.jpg",
+    "category": "power strip"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/power strip/power strip_044.jpg",
+    "category": "power strip"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/power strip/power strip_090.jpg",
+    "category": "power strip"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/power strip/power strip_000.jpg",
+    "category": "power strip"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/power strip/power strip_076.jpg",
+    "category": "power strip"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/power strip/power strip_043.jpg",
+    "category": "power strip"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/power strip/power strip_058.jpg",
+    "category": "power strip"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/power strip/power strip_017.jpg",
+    "category": "power strip"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/power strip/power strip_031.jpg",
+    "category": "power strip"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/power strip/power strip_074.jpg",
+    "category": "power strip"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/printer/printer_008.jpg",
+    "category": "printer"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/printer/printer_014.jpg",
+    "category": "printer"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/printer/printer_000.jpg",
+    "category": "printer"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/printer/printer_010.jpg",
+    "category": "printer"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/printer/printer_047.jpg",
+    "category": "printer"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/printer/printer_042.jpg",
+    "category": "printer"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/printer/printer_030.jpg",
+    "category": "printer"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/printer/printer_091.jpg",
+    "category": "printer"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/printer/printer_040.jpg",
+    "category": "printer"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/printer/printer_026.jpg",
+    "category": "printer"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/projector/projector_099.jpg",
+    "category": "projector"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/projector/projector_019.jpg",
+    "category": "projector"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/projector/projector_044.jpg",
+    "category": "projector"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/projector/projector_006.jpg",
+    "category": "projector"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/projector/projector_061.jpg",
+    "category": "projector"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/projector/projector_083.jpg",
+    "category": "projector"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/projector/projector_053.jpg",
+    "category": "projector"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/projector/projector_097.jpg",
+    "category": "projector"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/projector/projector_009.jpg",
+    "category": "projector"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/projector/projector_046.jpg",
+    "category": "projector"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/speakers/speakers_068.jpg",
+    "category": "speakers"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/speakers/speakers_042.jpg",
+    "category": "speakers"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/speakers/speakers_008.jpg",
+    "category": "speakers"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/speakers/speakers_020.jpg",
+    "category": "speakers"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/speakers/speakers_079.jpg",
+    "category": "speakers"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/speakers/speakers_077.jpg",
+    "category": "speakers"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/speakers/speakers_009.jpg",
+    "category": "speakers"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/speakers/speakers_016.jpg",
+    "category": "speakers"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/speakers/speakers_030.jpg",
+    "category": "speakers"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/speakers/speakers_029.jpg",
+    "category": "speakers"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/usb stick/usb stick_019.jpg",
+    "category": "usb stick"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/usb stick/usb stick_010.jpg",
+    "category": "usb stick"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/usb stick/usb stick_047.jpg",
+    "category": "usb stick"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/usb stick/usb stick_044.jpg",
+    "category": "usb stick"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/usb stick/usb stick_030.jpg",
+    "category": "usb stick"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/usb stick/usb stick_018.jpg",
+    "category": "usb stick"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/usb stick/usb stick_084.jpg",
+    "category": "usb stick"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/usb stick/usb stick_071.jpg",
+    "category": "usb stick"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/usb stick/usb stick_024.jpg",
+    "category": "usb stick"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/usb stick/usb stick_023.jpg",
+    "category": "usb stick"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/vr goggles/vr goggles_091.jpg",
+    "category": "vr goggles"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/vr goggles/vr goggles_082.jpg",
+    "category": "vr goggles"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/vr goggles/vr goggles_007.jpg",
+    "category": "vr goggles"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/vr goggles/vr goggles_044.jpg",
+    "category": "vr goggles"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/vr goggles/vr goggles_065.jpg",
+    "category": "vr goggles"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/vr goggles/vr goggles_067.jpg",
+    "category": "vr goggles"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/vr goggles/vr goggles_039.jpg",
+    "category": "vr goggles"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/vr goggles/vr goggles_056.jpg",
+    "category": "vr goggles"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/vr goggles/vr goggles_099.jpg",
+    "category": "vr goggles"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/vr goggles/vr goggles_041.jpg",
+    "category": "vr goggles"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/webcam/webcam_012.jpg",
+    "category": "webcam"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/webcam/webcam_084.jpg",
+    "category": "webcam"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/webcam/webcam_062.jpg",
+    "category": "webcam"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/webcam/webcam_075.jpg",
+    "category": "webcam"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/webcam/webcam_045.jpg",
+    "category": "webcam"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/webcam/webcam_010.jpg",
+    "category": "webcam"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/webcam/webcam_095.jpg",
+    "category": "webcam"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/webcam/webcam_077.jpg",
+    "category": "webcam"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/webcam/webcam_079.jpg",
+    "category": "webcam"
+  },
+  {
+    "path": "data/processed/Adaptiope/product_images/webcam/webcam_050.jpg",
+    "category": "webcam"
+  }
+]

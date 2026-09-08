@@ -1,0 +1,245 @@
+{
+  "ok": [
+    {
+      "domain": "product_images",
+      "category": "calculator",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "product_images",
+      "category": "computer",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "product_images",
+      "category": "computer mouse",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "product_images",
+      "category": "cordless fixed phone",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "product_images",
+      "category": "game controller",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "product_images",
+      "category": "hard-wired fixed phone",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "product_images",
+      "category": "in-ear headphones",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "product_images",
+      "category": "keyboard",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "product_images",
+      "category": "laptop",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "product_images",
+      "category": "mixing console",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "product_images",
+      "category": "monitor",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "product_images",
+      "category": "network switch",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "product_images",
+      "category": "over-ear headphones",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "product_images",
+      "category": "power strip",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "product_images",
+      "category": "printer",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "product_images",
+      "category": "projector",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "product_images",
+      "category": "speakers",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "product_images",
+      "category": "usb stick",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "product_images",
+      "category": "vr goggles",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "product_images",
+      "category": "webcam",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "real_life",
+      "category": "calculator",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "real_life",
+      "category": "computer",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "real_life",
+      "category": "computer mouse",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "real_life",
+      "category": "cordless fixed phone",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "real_life",
+      "category": "game controller",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "real_life",
+      "category": "hard-wired fixed phone",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "real_life",
+      "category": "in-ear headphones",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "real_life",
+      "category": "keyboard",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "real_life",
+      "category": "laptop",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "real_life",
+      "category": "mixing console",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "real_life",
+      "category": "monitor",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "real_life",
+      "category": "network switch",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "real_life",
+      "category": "over-ear headphones",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "real_life",
+      "category": "power strip",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "real_life",
+      "category": "printer",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "real_life",
+      "category": "projector",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "real_life",
+      "category": "speakers",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "real_life",
+      "category": "usb stick",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "real_life",
+      "category": "vr goggles",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "domain": "real_life",
+      "category": "webcam",
+      "expected": 100,
+      "actual": 100
+    }
+  ],
+  "mismatched": []
+}

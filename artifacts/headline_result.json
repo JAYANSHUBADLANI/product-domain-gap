@@ -1,0 +1,75 @@
+{
+  "clean_accuracy": 0.8275,
+  "clean_accuracy_ci": {
+    "point_estimate": 0.8275,
+    "ci_low": 0.7925,
+    "ci_high": 0.86,
+    "n_boot": 2000,
+    "alpha": 0.05
+  },
+  "shifted_accuracy": 0.48200000000000004,
+  "shifted_accuracy_ci": {
+    "point_estimate": 0.48200000000000004,
+    "ci_low": 0.453,
+    "ci_high": 0.512,
+    "n_boot": 2000,
+    "alpha": 0.05
+  },
+  "gap": 0.3455,
+  "clean_per_category": {
+    "calculator": 0.85,
+    "computer": 0.85,
+    "computer mouse": 1.0,
+    "cordless fixed phone": 1.0,
+    "game controller": 0.75,
+    "hard-wired fixed phone": 0.75,
+    "in-ear headphones": 0.9,
+    "keyboard": 0.85,
+    "laptop": 0.8,
+    "mixing console": 0.85,
+    "monitor": 0.9,
+    "network switch": 0.75,
+    "over-ear headphones": 1.0,
+    "power strip": 0.8,
+    "printer": 0.75,
+    "projector": 1.0,
+    "speakers": 0.9,
+    "usb stick": 0.25,
+    "vr goggles": 0.7,
+    "webcam": 0.9
+  },
+  "shifted_per_category": {
+    "calculator": 0.66,
+    "computer": 0.14,
+    "computer mouse": 0.8,
+    "cordless fixed phone": 0.54,
+    "game controller": 0.68,
+    "hard-wired fixed phone": 0.5,
+    "in-ear headphones": 0.3,
+    "keyboard": 0.74,
+    "laptop": 0.7,
+    "mixing console": 0.48,
+    "monitor": 0.6,
+    "network switch": 0.06,
+    "over-ear headphones": 0.4,
+    "power strip": 0.56,
+    "printer": 0.64,
+    "projector": 0.4,
+    "speakers": 0.44,
+    "usb stick": 0.04,
+    "vr goggles": 0.56,
+    "webcam": 0.4
+  },
+  "shifted_confidence_gap": {
+    "n_correct": 482,
+    "n_incorrect": 518,
+    "mean_confidence_correct": 0.6951727997898066,
+    "mean_confidence_incorrect": 0.47848740145276414
+  },
+  "clean_confidence_gap": {
+    "n_correct": 331,
+    "n_incorrect": 69,
+    "mean_confidence_correct": 0.8464242008337441,
+    "mean_confidence_incorrect": 0.5075458389693412
+  }
+}
