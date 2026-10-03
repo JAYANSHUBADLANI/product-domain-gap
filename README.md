@@ -1,5 +1,7 @@
 # Does a product image classifier survive leaving the studio
 
+[![tests](https://github.com/JAYANSHUBADLANI/product-domain-gap/actions/workflows/tests.yml/badge.svg)](https://github.com/JAYANSHUBADLANI/product-domain-gap/actions/workflows/tests.yml)
+
 I trained a classifier on clean, studio-lit product photographs and asked one
 question before running anything: how much accuracy does the gap between a
 studio photo and a real customer's photo of the same product actually cost.
@@ -180,25 +182,25 @@ cost of downloading more than this project's 20-category subset needs.
 The download itself was the least reliable part of building this: `gdown`
 against this file stalled twice mid-download (the process stayed alive,
 its connection stayed open, but zero bytes moved for several minutes
-straight). `gdown.download` has a `resume` parameter that picks a stalled
-download back up from its partial file's byte offset instead of restarting
-from zero; I did not pass it the first time and lost about 5.4 GB of an
-already 84%-complete download to a full restart before checking. Passed it
-on the second stall and confirmed the restart resumed from the existing
-partial file rather than zero. The fetch script accordingly always passes
-`resume=True`, and re-running it after an interruption is safe rather than
-wasteful.
+straight). Restarting from zero after the first stall cost about 5.4 GB of
+an already 84%-complete download; gdown can resume from the partial file's
+byte offset instead, which is what the second restart did. The download
+command below passes `--continue` for that reason, so re-running it after an
+interruption is safe rather than wasteful.
 
 ## Running it
 
-Requires the source archive; `run_pipeline.py` fetches it if
-`data/raw/Adaptiope.zip` is not already present.
+Requires the source archive at `data/raw/Adaptiope.zip`, 6.65 GB from the
+dataset's Google Drive mirror.
 
 ```bash
 python3.12 -m venv .venv
 source .venv/bin/activate
-pip install torch torchvision transformers huggingface_hub pillow numpy \
-    scikit-learn pyyaml pytest gdown
+pip install -r requirements.txt
+
+mkdir -p data/raw
+gdown --continue 1FmdsvetC0oVyrFJ9ER7fcN-cXPOWx2gq -O data/raw/Adaptiope.zip
+shasum -a 256 data/raw/Adaptiope.zip   # compare with sha256 in config/protocol.yaml
 
 python run_pipeline.py all
 # or one phase at a time: extract, split, train, eval, recovery, saliency
